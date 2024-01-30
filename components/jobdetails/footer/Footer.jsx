@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { View, Text, TouchableOpacity, Image, Linking } from "react-native";
+import { View, Text, TouchableOpacity, Image, Linking, TouchableWithoutFeedback } from "react-native";
 
 import styles from "./footer.style";
 import { icons } from "../../../constants";

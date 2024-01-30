@@ -8,6 +8,20 @@
       "expo-router"
     ],
     "name": "jobSearch",
-    "slug": "jobSearch"
+    "slug": "jobSearch",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "690f867a-ab36-479d-8b4f-d3b9e8b9810c"
+      }
+    },
+    "android": {
+      "package": "com.kuldeep363.jobSearch"
+    },
+    "ios": {
+      "bundleIdentifier": "com.kuldeep363.jobSearch"
+    }
   }
 }
